@@ -1,2 +1,2 @@
 ## NOTAS:
-Proyecto simple con uso de base de datos.
+Proyecto CRUD con Spring Framework 5, Spring Boot+Restful, JAVA 8 y JPA.
